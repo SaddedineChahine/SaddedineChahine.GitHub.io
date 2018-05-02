@@ -1,0 +1,33 @@
+  body{
+	background-color: thistle;
+	
+  }
+   h1{
+   /* KOMMENTAR */
+	font-size: 30px;
+	font-weight: normal;
+	color: #666;
+	margin: 0px;
+	border-bottom: 2px solid #333333;
+	font-family:times new roman,serif
+	/* Times new roman ser väldigt stilig och ser lite rubrikaktig ut, ifall den inte skulle finnas så 
+        använder jag serif så att man enkelt ser att det är en rubrik	*/
+   }
+   p{
+	font-size: 15px;
+	font-weight: normal;
+	margin: 0px;
+	font-family: verdana,san-serif;
+    /* Verdana är väldigt lättläst. 
+	däremot så finns inte verdana på alla datorer och därför använder jag san-seriff som andra val.*/
+   }
+   
+   
+   li{
+	font-size: 20px;
+	font-weight: normal;
+	color: red;
+	margin: 0px;
+   }
+		
+   
